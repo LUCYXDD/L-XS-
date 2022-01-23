@@ -177,7 +177,7 @@ async def unlimitedspam(event):
         await event.client.send_message(event.chat, op)
         await asyncio.sleep(0.3)
     except Exception as e:
-      await event.reply("Oops!! Something went wrong, Report In @DNHxHELl\n\n" + str(e))
+      await event.reply("Oops!! Something went wrong, Report In @SECRET_xCITY\n\n" + str(e))
 
 
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%spornspam(?: |$)(.*)" % hl))
