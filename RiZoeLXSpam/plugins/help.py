@@ -7,7 +7,7 @@ from RiZoeLXSpam import CMD_HNDLR as hl
     
 HELP_PIC = "https://telegra.ph/file/9acc785291052c8f8998d.jpg"
 
-Riz_Help = "🔥 𝗥𝗜𝗭𝗢𝗘𝗟 𝗫 𝗦𝗣𝗔𝗠 🔥\n\n"
+Riz_Help = "🔥 LUCY X SPAM 🔥\n\n"
  
 Riz_Help += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ__\n\n"
 
@@ -23,7 +23,7 @@ Riz_Help += f" ↧ 𝚂𝙿𝙰𝙼 𝙲𝙼𝙳𝚂 ↧\n\n"
 
 Riz_Help += f" `.raid` - to raid\n `.replyraid` - to active reply raid\n `.dreplyraid` - to de-active reply raid\n `.spam` - this cmd use for Normal spam\n `.bigspam` - this cmd use for big spam\n `.uspam` - this cmd use for unlimited Spam until You restart the bots!!\n `.delayspam` - this cmd use for delay spam\n `.pornspam` - this cmd is use for porn spam\n\n"
 
-Riz_Help += f"© @RiZoeLX | @DNHxHELL\n"
+Riz_Help += f"© @xD_Sed | @SECRET_xCITY\n"
 
 
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
